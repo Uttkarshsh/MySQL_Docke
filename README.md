@@ -1,4 +1,5 @@
 # MySQL Using Docker
+Name - Uttkarsh Sharma
 
 This guide explains how to set up and run MySQL inside a Docker container.
 
